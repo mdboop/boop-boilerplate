@@ -1,7 +1,7 @@
 {
-  "name": "react-express-pg-boilerplate",
+  "name": "boop-boilerplate",
   "version": "1.0.0",
-  "description": "boop-boilerplate",
+  "description": "React, Express, Postgres (type-orm) Simple Boilerplate",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
